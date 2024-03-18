@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Elizabeth Wolfe, Robert Shackelford, Amanda Jackson",
+      "title": "Severe storms – with reports of strong tornadoes – destroy buildings and knock out power in Indiana and Ohio - CNN",
+      "description": "Strong storms that likely included tornadoes swept through eastern Indiana and western Ohio on Thursday evening, leaving at least two people dead, destroying parts of some towns, knocking out power for thousands, and prompting search and rescue efforts in at …",
+      "url": "https://www.cnn.com/2024/03/15/weather/indiana-ohio-storm-tornado-damage-friday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/431993172-820181386811513-8-1.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-15T08:24:00Z",
+      "content": "Strong storms that likely included tornadoes swept through eastern Indiana and western Ohio on Thursday evening, leaving at least two people dead, destroying parts of some towns, knocking out power f… [+5092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Randy Mueller",
+      "title": "2024 NFL free-agency tracker: From Danielle Hunter to Jamal Adams, see where top 150 players land - The Athletic",
+      "description": "NFL free agency begins at noon Monday when the tampering window opens. Track the best available players (and where they land) right here.",
+      "url": "https://theathletic.com/5318482/2024/03/14/nfl-free-agent-rankings-tracker/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/07191019/0308_NFL_Top150FA.png",
+      "publishedAt": "2024-03-15T06:11:20Z",
+      "content": "NFL free agency is in full swing, with the legal tampering window opening Monday and the new league year beginning Wednesday at 4 p.m. ET.\r\nThese are my updated rankings and scouting reports of the t… [+98308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Mike McRae",
+      "title": "Breakthrough Therapy Obliterates Deadly Brain Tumor in Days - ScienceAlert",
+      "description": "Brain scans of a 72-year-old man diagnosed with a highly aggressive form of cancer known as a glioblastoma have revealed a remarkable regression in his tumor's size within days of receiving an infusion of an innovative new treatment.",
+      "url": "https://www.sciencealert.com/breakthrough-therapy-obliterates-deadly-brain-tumor-in-days",
+      "urlToImage": "https://www.sciencealert.com/images/2024/03/patient_2_glioblastoma.jpg",
+      "publishedAt": "2024-03-15T05:19:00Z",
+      "content": "Brain scans of a 72-year-old man diagnosed with a highly aggressive form of cancer known as a glioblastoma have revealed a remarkable regression in his tumor's size within days of receiving an infusi… [+3870 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kareem Khadder, Abeer Salman, Mohammed Tawfeeq",
+      "title": "At least 20 killed, 155 wounded in shelling while waiting for food aid, Gaza health ministry says. Israel denies attack - CNN",
+      "description": "At least 14 people were killed and 150 wounded in shelling Thursday while waiting for food aid in Gaza, according to the health ministry in the Palestinian enclave.",
+      "url": "https://www.cnn.com/2024/03/14/middleeast/blasts-kill-palestinians-food-aid-gaza-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-2-20240314233429149.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-15T05:18:00Z",
+      "content": "Gazas health ministry says at least 20 people were killed and 155 wounded by Israeli shelling as they waited for aid on Thursday, as desperate Palestinians increasingly face deadly violence in their … [+7597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lim Hui Jie, Shreyashi Sanyal",
+      "title": "Hong Kong leads losses in Asia after hot U.S. inflation report; first estimates from Japan's wage negotiations expected - CNBC",
+      "description": "Japan is expected to see the first estimates from its spring wage negotiations on Friday, ahead of the Bank of Japan's monetary policy meeting on March 18-19.",
+      "url": "https://www.cnbc.com/2024/03/15/asia-markets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107289188-1692598524364-gettyimages-1557426353-vcg111446209712.jpeg?v=1692599898&w=1920&h=1080",
+      "publishedAt": "2024-03-15T05:15:00Z",
+      "content": "Shares of Taiwanese multinational electronics contract manufacturer Foxconn surged over 8% following the release of its fourth-quarter and full-year results.\r\nFoxconn, which is traded in Taiwan as Ho… [+729 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Live news: Chinese home prices fall as property slump deepens - Financial Times",
+      "description": null,
+      "url": "https://www.ft.com/content/6a718121-873f-4d67-8483-9201511c510c",
+      "urlToImage": null,
+      "publishedAt": "2024-03-15T05:15:00Z",
+      "content": "Then $199 for 12 months. Insight and expertise in your hands with the iconic FT print edition, delivered Monday to Saturday."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Anthony D'Alessandro",
+      "title": "‘Civil War’ World Premiere Leaves SXSW Audiences With Ears Ringing & Hearts Racing - Deadline",
+      "description": "A24's Civil War made its grand splash Thursday night at SXSW, marking it as one the most anticipated movies in a contentious U.S. election year.",
+      "url": "http://deadline.com/2024/03/sxsw-civil-war-premiere-1235859532/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/GettyImages-2076712571-e1710472834562.jpg?w=1024",
+      "publishedAt": "2024-03-15T04:04:00Z",
+      "content": "One of the most anticipated movies in a contentious Red vs. Blue election year, A24‘s Civil Warmade its grand splash Thursday night in the Texas democratic stronghold of Austin — and the media, on wh… [+3165 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Courtney Cronin",
+      "title": "Bears acquire WR Keenan Allen from Chargers for 4th-round pick - ESPN",
+      "description": "The Bears acquired six-time Pro Bowl receiver Keenan Allen from the Chargers for a fourth-round draft pick, it was announced Thursday.",
+      "url": "https://www.espn.com/nfl/story/_/id/39735083/chargers-trading-wr-keenan-allen-bears-4th-rounder",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1114%2Fr1253214_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-03-15T03:25:00Z",
+      "content": "CHICAGO -- The Chicago Bears made their biggest splash in free agency Thursday night, sending a fourth-round pick to the Los Angeles Chargers in exchange for wide receiver Keenan Allen, the teams ann… [+5464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Shohei Ohtani: Baseball star shares first photo with new wife Mamiko Tanaka - BBC.com",
+      "description": "Shohei Ohtani shares a photo with Mamiko Tanaka for the first time as his team heads to South Korea.",
+      "url": "https://www.bbc.com/news/world-asia-68571877",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8B08/production/_132929553_ohtani.png",
+      "publishedAt": "2024-03-15T03:12:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "James Crumbley: Father of Michigan school gunman convicted of manslaughter - BBC.com",
+      "description": "For the first time parents are convicted of manslaughter over their child's role in a shooting in the US.",
+      "url": "https://www.bbc.com/news/world-us-canada-68572112",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92D8/production/_132929573_gettyimages-2076713120.jpg",
+      "publishedAt": "2024-03-15T03:01:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "David Landsel",
+      "title": "No such thing as 'long COVID,' health agency says in shock claim: 'Unnecessary fear' - New York Post ",
+      "description": "Follow the science — right out the door.",
+      "url": "https://nypost.com/2024/03/14/lifestyle/no-such-thing-as-long-covid-health-agency-says-in-shock-claim-unnecessary-fear/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/78376401.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-03-15T02:52:00Z",
+      "content": "Follow the science  right out the door.\r\nThe term “long COVID” should be tossed aside like a stack of expired N95 masks that’s according to health experts in one country, who found that symptoms of t… [+3154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Texas Tribune"
+      },
+      "author": "William Melhado",
+      "title": "Pornhub disabled in Texas over age-verification requirements - The Texas Tribune",
+      "description": "Legal experts say a 5th Circuit decision to uphold part of a Texas law regulating adult entertainment websites conflicts with U.S. Supreme Court precedent regarding minors’ access to obscene material online",
+      "url": "https://www.texastribune.org/2024/03/14/texas-pornhub-5th-circuit-age-verification-paxton/",
+      "urlToImage": "https://thumbnails.texastribune.org/ui6q6mbL142DKZdC8XifgcxWkPo=/1200x630/filters:quality(95):focal(3x413:5468x3359)/static.texastribune.org/media/files/a1784e25cb611c242be5bb18ffd0591f/0205%20Woodfill%20Paxton%20AM%2004.jpg",
+      "publishedAt": "2024-03-15T02:24:32Z",
+      "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nIn the latest installment of the dispute between adult content websites an… [+8270 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Biden opposes Japanese takeover of US Steel, touts ‘American steelworkers’ - Al Jazeera English",
+      "description": "US president’s remarks come as he is seeking to shore up support in key swing state of Pennsylvania.",
+      "url": "https://www.aljazeera.com/economy/2024/3/15/biden-opposes-japanese-takeover-of-us-steel-touts-american-steel-workers",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24074499601241-1710463801.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-15T02:21:16Z",
+      "content": "United States President Joe Biden has opposed the proposed sale of a Pittsburgh-based steel manufacturer to Japans largest steel producer, insisting on the need for strong American steel companies po… [+3359 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Allie Raffa, Monica Alba, Jillian Frankel",
+      "title": "Michigan Arab and Muslim leaders fuming after second Biden visit this year with no meeting - NBC News",
+      "description": "For the second time this year, President Joe Biden visited Michigan without any in-person meetings with members of its Arab American or Muslim communities.",
+      "url": "https://www.nbcnews.com/politics/2024-election/michigans-arab-muslim-community-fuming-second-biden-visit-year-no-meet-rcna143510",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240314-michigan-joe-biden-umbrellas-ac-732p-13aa07.jpg",
+      "publishedAt": "2024-03-15T01:35:00Z",
+      "content": "SAGINAW, Mich. For the second time this year, President Joe Biden visited Michigan without any in-person meetings with members of its Arab American or Muslim communities as he faces protests at campa… [+6201 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Judge denies Trump request to dismiss classified documents case in Florida - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/03/14/trump-classified-documents-hearing-florida",
+      "urlToImage": null,
+      "publishedAt": "2024-03-15T00:20:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Kasey Richardson",
+      "title": "Emergency disaster declaration issued in 2 Colorado counties due to snowstorm - CBS News",
+      "description": "Two counties in Colorado have issued emergency disaster declarations due to the snowstorm that continues to pound the state.",
+      "url": "https://www.cbsnews.com/colorado/news/emergency-disaster-declaration-issued-2-colorado-counties-snowstorm/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/14/88d14823-a2fd-44ca-94c0-e225f7843f79/thumbnail/1200x630/b35e1e57f969e66c8b204ebcc00c8a38/spencer-wilson-i70-vid-2-jhill0913cbs-onmicrosoft-com.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
+      "publishedAt": "2024-03-14T23:43:00Z",
+      "content": "Two counties in Colorado have issued emergency disaster declarations due to the snowstorm that continues to pound the state.\r\nClear Creek County and Gilpin County both were issued an emergency disast… [+1183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Leah Degrazia",
+      "title": "Kensington Palace Is No Longer a “Trusted Source” After Kate Middleton Edited Photo, AFP Says - E! Online - E! NEWS",
+      "description": "After a March 10 photo of Kate Middleton was pulled from agencies for being doctored, AFP global news director Phil Chetwynd revealed his agency no longer views Kensington Palace as a \"trust source.\"",
+      "url": "https://www.eonline.com/news/1397336/kensington-palace-is-no-longer-a-trusted-source-after-kate-middleton-edited-photo-afp-says",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024214/cr_1200x1200-240314152623-GettyImages-1806316518.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-03-14T23:13:00Z",
+      "content": "The royal family is on thin ice. \r\nIn light of photo agencies pulling a photo of Kate Middleton on March 10 for being \"manipulated,\" the global news director of Agence France-Presse (AFP) Phil Chetwy… [+1190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Neeraj Dhankher",
+      "title": "Career Horoscope Today for March 14, 2024: Astro tips for better possibilities at work - Hindustan Times",
+      "description": "Daily Horoscope Today, March 15, 2024: Get daily career astrological predictions that will help you prosper at your workplace. | Horoscope",
+      "url": "https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-march-14-2024-astro-tips-for-better-possibilities-at-work-101710454934299.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/14/1600x900/career_1669806146489_1710454953429.jpg",
+      "publishedAt": "2024-03-14T22:40:47Z",
+      "content": "Aries: If you are looking for a new job, try attending a job fair or an industry conference near you. Networking at such events can lead to surprise job offers and valuable connections. Those working… [+5181 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ashley Strickland",
+      "title": "Voyager 1 sends back surprising response after ‘poke’ from NASA - CNN",
+      "description": "A “poke” sent to the Voyager 1 probe received a response that could help NASA restore reliable communication with the aging spacecraft 15 billion miles away.",
+      "url": "https://www.cnn.com/2024/03/14/world/voyager-1-communication-issue-poke-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/171202144108-03-voyager-spacecraft-concept-art.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-14T22:29:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nEngineers have sent a poke to the Voyager 1 probe and … [+5015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Victor Goury-Laffont",
+      "title": "Hawkish Macron refuses to back down on possibility of Western troops in Ukraine - POLITICO Europe",
+      "description": "The French president refused to set limits on a response to Moscow in a TV interview meant to win over the public to his strategy.",
+      "url": "https://www.politico.eu/article/im-right-about-not-being-specific-macron-says-doubling-down-on-strategic-ambiguity/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/03/14/GettyImages-1241347820-scaled.jpg",
+      "publishedAt": "2024-03-14T22:18:00Z",
+      "content": "Macron responded by arguing that setting any limits on how to respond to Moscows actions meant opting for defeat.\" The French president spent much of the interview arguing in favor of remaining ambig… [+809 chars]"
+    }
+  ]
+}
